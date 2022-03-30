@@ -1,8 +1,4 @@
-echo "# hubbiodatos" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/lmichan/hubbiodatos.git
-git push -u origin main
+FUENTES PARA BIODATOS
 
+AUTORES
+https://alec-demo.herokuapp.com/Q42617171
